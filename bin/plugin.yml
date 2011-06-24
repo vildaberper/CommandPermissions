@@ -1,0 +1,13 @@
+name: CommandPermissions
+main: com.vildaberper.CommandPermissions.CommandPermissions
+version: 1.0.1
+website: http://www.tfbs.tk/
+author: vildaberper
+database: false
+description: >
+             Multiworld per-command permissions for bukkit.
+commands:
+  cperm:
+    description: Alter permissions.
+    usage: |
+           /<command> <args>
